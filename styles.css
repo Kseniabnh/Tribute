@@ -10,3 +10,9 @@ html {
     box-sizing: border-box;
     padding-top: 20px;
 }
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
